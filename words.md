@@ -1,0 +1,290 @@
+# Words
+- dekode
+- ataabo (divid's weapon)
+- animtiaa
+- n'ataabo
+- teɛɛm
+- obekum
+- nkrante
+- peaw
+- pɛmɛ (shield)
+- mpasua
+- woasopa
+- hwee
+- bɛkeka
+- anokwa
+- ɔbran
+- wahyehyɛ
+- ammɔ
+- mfomso
+- antoto
+- anammɔn
+- mita
+- nkron
+- ɔboadeɛ
+- mmirika
+- ɔbo
+- him (swing)
+- kɛse
+- kyerɛw
+- anto
+- amfom
+- hyɛn (hit, strike)
+- oguanee
+- twee
+- sekan
+- akokoduru
+- ose
+- na
+- ne
+- tu
+- fa
+- yɛe
+- ako (wars)
+- atwam
+- mfaso
+- ɔteasefo
+- remene
+- abɛbrɛsɛ
+- obehunahuna
+- anansesɛm
+- worekenkan
+- nsateakwaa
+- sɛntimita (centimeter)
+- mita (meter)
+- anammɛn
+- nyɛ
+- bepɔw
+- mmepɔw
+- gyama
+- mpasua
+- yesian
+- yetwaa
+- kayow (bush)
+- mmosea
+- toromtorom
+- mmeae
+- atuturasɛm
+- wɔwoo
+- awerɛhosɛm
+- nsɛmmɔnedifo
+- nsɛmmɔnedi
+- katolek (Catholic)
+- asɔre
+- nnwomtofo
+- kuw
+- misuro
+- guan
+- gyaw
+- ɔwan
+- wɔanyin
+- sigaret (cigarette)
+- sigaretnom
+- atwere
+- poopoo
+- mopoopoo
+- misuaa (learnt)
+- misua (I learn)
+- akuturuku (boxing)
+- akuturukubɔ
+- atentam
+- karate (karate - Chinese fight)
+- mmofraberem
+- asenhia
+- menkenkan (i should read)
+- kenkan
+- nnyinaa
+- mebehui
+- nsakrae
+- migyae
+- migyaee
+- nntua
+- asomdwoe
+- munnni (dont't eat)
+- munni (eat)
+- mommfa
+- momfa
+- asisisɛm
+- aisesie
+- nkakrankakra
+- mifi
+- tiri
+- akuturuku
+- m'akyi
+- barima (man - adjective)
+- ɔbramima (man - noun)
+- bea (woman - adjective)
+- ɔbea (woman - noun)
+- n'abufuw
+- gyae
+- gyaee (stopped)
+- masi
+- meremma
+- biribiara
+- mibehui
+- pii
+- otie
+- otiee
+- obiara
+- biara
+- biarabiara
+- adwumayɛbea
+- adwuma
+- kristoni (Christian)
+- mmɔden
+- paa
+- mayɛ
+- yɛwaree
+- nokwafo
+- yɛkɔɔ
+- asafo
+- ka
+- mum
+- yɛboa
+- nnipa
+- nipa
+- wɔsua
+- wosua
+- ade
+- nneɛma
+- yɛntu
+- yɛntu
+- yɛnkɔka
+- ɛhɔfo
+- hia
+- nhia
+- yɛremfa
+- nsesa
+- yɛanya
+- yi
+- maame
+- papa
+- san
+- fii
+- ase
+- suaa
+- bible
+- no
+- bio
+- asu
+- panyin
+- ne
+- yere
+- okunu
+- kunu
+- ɔyere
+- yere
+- nnamfo
+- binom
+- mekaa
+- awuwu
+- abotare
+- ayamye
+- aboa
+- ɔne
+- mmɔden
+- mmɔdenbɔ
+- wiase
+- nyinaa
+- adedowdowpɛ
+- mmerebuw
+- akyinnye
+- adesamma
+- sukooko
+- adansi
+- woasusuw
+- mpoano
+- ɔkwanpaefo (Paineering)
+- akwampae
+- redi
+- nkaedi
+- dodow
+- dawurubɔfo
+- ofi
+- titiriw
+- awiɛmfo
+- nkoekoemmoa
+- mmoawammoawa
+- anammɔm
+- wɔdwen
+- sɛm
+- aban
+- ankasa
+- ahenni
+- nnisoɔ
+- soro
+- ayɛ
+- hɔ
+- Onyankopɔn
+- nyankopɔn
+- ɛrenkyɛ
+- nnim
+- ɛremma
+- pɔtee
+- anhweatam (desert)
+- yɛannom
+- anidaso
+- adwumayɛfo
+- dɔnhwerew (hour)
+- nnɔnhwerew (hours)
+- sima (minute, minutes)
+- anibɔ (second, seconds)
+- da (day)
+- ɔsram /ɔsrane?? (month)
+- asram (months)
+- nnawɔtwe (week)
+- afe (year)
+- bere (time)
+- mmere (time - plural)
+- wɔnwiinwii
+- moampene
+- mfatoho
+- denneennen
+- mpofirim
+- mmirika
+- fɛw
+- wudwinnwen
+- apɔwmuden
+- ɛreteetee
+- mfonini
+- wuhyia
+- wuhyiaa
+- mmeranteberem
+- mmofraberem
+- mfomso
+- odwomtofo
+- sin
+- tɔ
+- fã
+- mã
+- mua
+- sέ
+- sɛ
+- fĩĩ
+- mõ
+- mmɔbrɔhunu
+- aguamansɛm
+- boasipem
+- mpanyianfo
+- amonom
+- n'asefo
+- n'asɔfo
+- nkarankakra
+- dwatiri
+- hyewee (burnt, business collapsed)
+- wannwinnwen (did not keep think)
+- afɛfɛde
+- apɔwmuden
+- nhabanmma
+- yemmisa
+- mpomma
+- asɛmfua (term)
+- nsɛmfua (terms)
+- asɛntitirw
+- dɔte
+- anɔpatutuutu
+- awia
+- anwummere
+- pɛnkyen (pension)
+- kokoram (cancer)
+- atuhoamafo (volunteer)
