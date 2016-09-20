@@ -1,4 +1,4 @@
-# Words
+# Words in Twi (Aming at 200000+)
 - dekode
 - ataabo (divid's weapon)
 - animtiaa
