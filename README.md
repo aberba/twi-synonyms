@@ -2,35 +2,37 @@
 
 A list of words in English (British) and their Twi translations (synonyms).
 
+> NOTE: I'm planning to automate this whole process using software as doing it manually is bth cumbersome and not interesting anymore. 
+
 > _This project uses the Asanti (Asante or Ashanti) dialect to ensure consistency. Contributions are welcomed_
 
 ## Twi Characters.
 
 Upper-case | Lower-case | Sample Words(s) or Phrase
----------- | ---------- | -------------------------
-Ɛ          | ɛ          | Ɛdin, Intanɛt
--          | έ          | Sέ anka wopɛ sɛ wo bue?
-Ɔ          | ɔ          | Ɔgya, Bɔ nnwom
-...        | ...        | Bue wɔ ...
-Ã          | ã         | Fã, Mã
-Á          | á          | Ná mentumi nhu
-É          | é          | -
-Ũ          | ũ          | Mũ
-Õ          | õ          | -
-Ĩ          | ĩ          | Yi fĩ no nyinaa
-®          | -          | ® Original Inc.
+-- | -- | --
+Ɛ | ɛ | Ɛdin, Intanɛt
+... | έ | Sέ anka wopɛ sɛ wo bue?
+Ɔ | ɔ | Ɔgya, Bɔ nnwom
+..| ... | Bue wɔ ...
+Ã | ã | Fã, Mã
+Á | á | Ná mentumi nhu
+É | é | ...
+Ũ | ũ | Mũ
+Õ | õ | ...
+Ĩ | ĩ | Yi fĩ no nyinaa
+® | ... | ® Original Inc.
 
 ## Keys
 
 Each word in the list is marked by a key. Below are the meaning of the keys used.
 
-- Noun (n)
-- Verb (v)
-- Adjective (adj)
-- Adverb (adv)
-- Pronoun (pro)
-- Unknown (un)
-- Past Tense (pt)
+* Noun (n)
+* Verb (v)
+* Adjective (adj)
+* Adverb (adv)
+* Pronoun (pro)
+* Unknown (un)
+* Past Tense (pt)
 
 ## Translations
 
@@ -113,14 +115,3 @@ cry             | su                |
 page (n)        | krataafã         | -
 number (n)      | nɔma              | -
 colour          | Kɔla              | -
--               | -                 | -
--               | -                 | -
--               | -                 | -
--               | -                 | -
--               | -                 | -
--               | -                 | -
--               | -                 | -
--               | -                 | -
--               | -                 | -
--               | -                 | -
--               | -                 | -
