@@ -1,10 +1,8 @@
 # Twi Synonyms
 
-A list of words in English (British) and their Twi translations (synonyms).
+A list of words in English (British) and their Twi translations (synonyms). The Asanti (Asante or Ashanti) language dialect is used to ensure consistency. Contributions are welcomed.
 
 > NOTE: I'm planning to automate this whole process using software as doing it manually is bth cumbersome and not interesting anymore. 
-
-> _This project uses the Asanti (Asante or Ashanti) dialect to ensure consistency. Contributions are welcomed_
 
 ## Twi Characters.
 
