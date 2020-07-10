@@ -2,7 +2,7 @@
 
 A list of words in English (British) and their Twi translations (synonyms). The Asanti (Asante or Ashanti) language dialect is used to ensure consistency. Contributions are welcomed.
 
-> NOTE: I'm planning to automate this whole process using software as doing it manually is bth cumbersome and not interesting anymore. 
+> NOTE: The plan is to automate this whole process using software. Doing it manually is both cumbersome and not interesting anymore. 
 
 ## Twi Characters.
 
